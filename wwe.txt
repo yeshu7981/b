@@ -1,8 +1,4 @@
 wwx
 wwd
-<<<<<<< HEAD
 sql
 qq
-=======
-sql
->>>>>>> 24654c9a7cc5e445ca5cd2227e5142a267462dc9
